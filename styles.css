@@ -30,6 +30,8 @@ body {
 	width: 100%;
 	padding: 0;
 	margin: 0;
+	/* padding phuoc293 */
+	padding-top: 30px;
 }
 
 @media screen and (min-width: 1000px) {
@@ -326,7 +328,7 @@ body {
   Site description
   ================ */
 .site-description {
-	background: #9adbb3;
+	background: skyblue;
 }
 
 .section-title {
