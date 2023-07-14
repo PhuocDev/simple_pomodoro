@@ -20,7 +20,7 @@ body {
 	height: 100%;
 	padding: 0;
 	margin: 0;
-	font-family: "Arvo", serif;
+	font-family: "Arial", serif;
 }
 
 /*============
@@ -328,7 +328,7 @@ body {
   Site description
   ================ */
 .site-description {
-	background: skyblue;
+	background: whitesmoke;
 }
 
 .section-title {
